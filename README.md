@@ -19,4 +19,5 @@ Here are my Top 5:
 
 > Tel: 0966499680
 
-![My Picture](c:\Users\user\OneDrive\รูปภาพ\jan.jpg)
+![jan](https://github.com/user-attachments/assets/bf2efe7e-b02e-4f80-8dbd-6c54634083bf)
+
