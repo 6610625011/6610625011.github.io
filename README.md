@@ -4,7 +4,7 @@
 #### Now I'm student at Thammasat University and I've been studying Computer Engineering for 2 years. I'll graduate in 2027. I want to be a software engineer and get 100,000 THB/month. My another dream is to be quantum computer researcher. I think it's very complicated but I like that.  
 #### In This Campus, There're so many activity that I love to do.
 Here are my Top 5: 
-1. Martial Arts: Jujitsu, Judo, Taekwondo and Boxing 🤼🥊dD
+1. Martial Arts: Jujitsu, Judo, Taekwondo and Boxing 🤼🥊
 2. Basketball ⛹️‍♀️🏀
 3. Running 🏃‍♀️
 4. Playing music 🎸🥁🧑‍🎤🎹
@@ -15,6 +15,8 @@ Here are my Top 5:
 
 > [Facebook](https://www.facebook.com/)
 
+> [Youtube] ()
+
 > Tel: 0966499680
 
-![My Picture](c:\Users\user\OneDrive\รูปภาพ\jan.jpg)
+![My Picture](https://github.com/6610625011/6610625011.github.io/issues/2#issue-2502333820.png)
